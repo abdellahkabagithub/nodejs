@@ -1,0 +1,11 @@
+## Installation de package.json
+npm init
+npm install express
+## création du fichier index.js et crétion du serveur
+## une variable port qui permettra de demarrer notre serveur et avec une nouvelle fonction
+
+## un processus listener qui va demarrer le port 
+## on envoie notre premier requete à l'aide du get
+## on envoie un statut pour verifier le status de la reponse à l'aide du status
+## on peut aussi envoyé du json() du co
+
