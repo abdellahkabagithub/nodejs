@@ -1,4 +1,3 @@
-## Création d'une api
-    Une Api permet de transiter des données entre le back et le front en faisant des requête get,post,head,put etc...... et traite des données (data)
-    les renvoyées aussi
-## création des routes dans un dossier
+## Installation de la librairie mysql
+    npm install mysql
+## on importe mysql puis on se connecte à notre base de données
